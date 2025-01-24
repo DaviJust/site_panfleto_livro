@@ -1,0 +1,51 @@
+body {
+    font-family: 'Tahoma', sans-serif;
+    background-color: #F5F5F5;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#titulo-pag {
+    margin-top: 0;
+    color: #000000;
+}
+
+#sub_titulo {
+    color: #000000;   
+}
+
+#section {
+    border-top: 1px solid #d5d5d5;
+    color: #000000;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#spotilight_text {
+    font-weight: bold;
+}
+
+#descricao {
+    color: #000000;
+}
+
+#titulo_secao {
+    color: #000000;
+}
+
+#button {
+    background-color: #49B970;    
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+#button:hover {
+    background-color: #3a9458;
+    cursor: pointer;
+}
